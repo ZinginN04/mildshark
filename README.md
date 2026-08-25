@@ -1,6 +1,5 @@
-# 💫 About Me:
+ # 💫 About Me:
 About Me<br><br>🔭 Currently working on — Building web projects and improving my skills.<br><br>👥 Looking to collaborate on — Web development and tech projects.<br><br>🧑‍💻 Currently learning — Java, Python, SQL, and web development.<br><br>🎓 Education — B.Tech in CSE with a Diploma in Electrical Engineering.<br><br>🏭 Experience — Internship experience in PLCs and plant automation at TATA Metaliks Ltd.<br><br>🌐 Skills — Java, Python, HTML, CSS, JavaScript, and SQL.<br><br>🚀 Projects — Personal portfolio and Myntra UI clone.<br><br>🎯 Goal — To grow in the IT industry and keep learning.<br><br>⚽ Hobbies — Football, workouts, gardening, anime, web series, and movies.<br><br>⚡ Fun fact — I love learning new things and taking on challenges.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn.com/in/zinadin-hassan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Adin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zinadin365@gmail.com) 
